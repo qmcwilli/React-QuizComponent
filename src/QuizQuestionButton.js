@@ -9,4 +9,4 @@ class QuizQuiestionButton extends Component {
     }
 }
 
-export default QuizQuiestionButton;
+export default QuizQuestionButton;
